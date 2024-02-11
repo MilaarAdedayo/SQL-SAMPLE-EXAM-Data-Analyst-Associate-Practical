@@ -1,0 +1,1 @@
+# SQL-SAMPLE-EXAM-Data-Analyst-Associate-Practical
