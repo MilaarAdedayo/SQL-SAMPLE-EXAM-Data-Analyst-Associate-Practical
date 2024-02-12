@@ -1,5 +1,5 @@
 # Coffee Shops Data Analysis
-Caffeine Form is a company that creates coffee cups from recycled material. The company sells cups to coffee shops through their website. They would prefer to partner with the shops directly. They believe that stores with more reviews will help them better market their product. This README provides information and SQL queries to perform data analysis on the Coffee Shops sample exam data.
+Caffeine Form is a company that creates coffee cups from recycled material. The company sells cups to coffee shops through their website. They would prefer to partner with the shops directly. They believe that stores with more reviews will help them better market their product. This README provides information and SQL queries to perform data analysis on the Coffee Shops sample exam data provided on datacamp.
 # Table of Contents
 1. Ensuring Data Cleansing or Scrubbing
    
