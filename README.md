@@ -65,4 +65,5 @@ MAX("Reviews") AS max_review,
 MIN("Reviews") AS min_review
 FROM coffee
 GROUP BY "Place type";
+
 This query groups by Place type to display the lowest and highest reviews for each Place type.
