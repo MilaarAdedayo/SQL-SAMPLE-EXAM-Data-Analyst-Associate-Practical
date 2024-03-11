@@ -1,13 +1,13 @@
 # Coffee Shops Data Analysis
 Caffeine Form is a company that creates coffee cups from recycled material. The company sells cups to coffee shops through their website. They would prefer to partner with the shops directly. They believe that stores with more reviews will help them better market their product. This README provides information and SQL queries to perform data analysis on the Coffee Shops sample practical exam data provided on datacamp.
 ## Table of Contents
-1. [Ensuring Data Cleansing or Scrubbing](url)
+1. [Ensuring Data Cleansing or Scrubbing](#Ensuring-Data-Cleansing-or-Scrubbing)
    
-    _a)[ Using the COALESCE function](url)_
+    _a)[ Using the COALESCE function](#Using-the-COALESCE-function)_
 
     _b) [Using the CASE statement](url)_
 
-2. [Identifying Min and Max Reviews for each Place Type](url)
+3. [Identifying Min and Max Reviews for each Place Type](url)
 
 ## Ensuring Data Cleansing or Scrubbing
 The data given was cleaned so that each column name matched the given criteria. This was done using either of the following queries without updating the original table to identify and replace the missing values.
