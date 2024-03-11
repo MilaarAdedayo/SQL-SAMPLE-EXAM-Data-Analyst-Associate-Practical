@@ -5,9 +5,9 @@ Caffeine Form is a company that creates coffee cups from recycled material. The 
    
     _a)[ Using the COALESCE function](#Using-the-COALESCE-function)_
 
-    _b) [Using the CASE statement](url)_
+    _b) [Using the CASE statement](#Using-the-CASE-statement)_
 
-3. [Identifying Min and Max Reviews for each Place Type](url)
+2. [Identifying Min and Max Reviews for each Place Type](#Identifying-Min-and-Max-Reviews-for-each-Place-Type)
 
 ## Ensuring Data Cleansing or Scrubbing
 The data given was cleaned so that each column name matched the given criteria. This was done using either of the following queries without updating the original table to identify and replace the missing values.
